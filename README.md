@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on SLM for healthcare
 - 💬 Ask me about 📸
 
-###Languages and Tools:
+### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
